@@ -45,7 +45,7 @@ const NoteDetailPage = () => {
   return (
     <div>
       <div>
-        
+        <div></div>
       </div>
     </div>
   )
